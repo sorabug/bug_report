@@ -4,7 +4,7 @@ The decompression password for the source file is itsourcecode.
 
 Login account: admin/admin (Super Admin account)
 
-Loophole location：
+Vulnerability url: ip/bmis/pages/resident/resident.php
 
 vendors: https://itsourcecode.com/free-projects/php-project/barangay-management-system-project-in-php-with-source-code/
 
